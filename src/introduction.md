@@ -1,0 +1,3 @@
+# Introduction
+
+The .NET ecosystem and its languages are wonderful to use. It feels amazing when you begin to figure out how everything works, and can start using it to quickly put together sophisticated applications. However, the documentation for .NET and the naming of many of the things surrounding .NET leave something to be desired. I don't have enough hubris to believe that I can make documentation better than Microsoft's, but I still want to document all of my hard-earned knowledge about the .NET ecosystem for later reference. So, I've decided to put together this little website to catalog all the things I've come to know/understand about .NET. These are my ".NET Notes" if you will.

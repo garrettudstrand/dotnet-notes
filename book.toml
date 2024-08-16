@@ -1,0 +1,6 @@
+[book]
+authors = ["Garrett Udstrand"]
+language = "en"
+multilingual = false
+src = "src"
+title = ".NET Notes"
